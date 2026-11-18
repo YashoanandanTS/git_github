@@ -1,0 +1,1 @@
+console.log("Welcome to the Git Course! This is the index.js file.");
